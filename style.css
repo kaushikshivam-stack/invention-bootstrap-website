@@ -1,0 +1,35 @@
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+.bulb {
+  padding-bottom: 4px;  
+}
+
+span {
+    color:blue;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+
+.one {
+    color:springgreen;
+    font-weight: 400;
+}
+
+.two {
+    color: red;
+    font-weight: 400;
+}
+
+.three {
+    color: blue;
+    font-weight: 400;
+}
