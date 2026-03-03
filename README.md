@@ -20,7 +20,7 @@ This project was built while learning Bootstrap and responsive web design.
 It focuses on understanding layout, components, and real-world UI structure.
 
 ## 🔹 Live Demo
-(Enable GitHub Pages to view live)
+https://kaushikshivam-stack.github.io/invention-bootstrap-website/
 
 ## 🔹 Author
 Shivam Kaushik  
