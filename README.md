@@ -1,4 +1,4 @@
-# Invention – Bootstrap Website
+# Invention | Greatest Scientific Discoveries – Bootstrap Website
 
 A beginner-friendly Bootstrap 5 project that showcases great scientific inventions
 with a clean UI, responsive layout, and dark theme.
