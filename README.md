@@ -22,6 +22,11 @@ It focuses on understanding layout, components, and real-world UI structure.
 ## 🔹 Live Demo
 https://kaushikshivam-stack.github.io/invention-bootstrap-website/
 
+## 📸 Project Screenshot
+
+### Home Page
+![Home Page](Screenshot1.png)
+
 ## 🔹 Author
 Shivam Kaushik  
 Beginner Web Developer 🚀
